@@ -121,7 +121,7 @@ Proyek ini **dapat digunakan secara bebas** untuk keperluan:
 > Setiap penggunaan ulang atau distribusi proyek ini **wajib mencantumkan nama pembuat dan sumber repositori GitHub asli.**
 
 **Contoh kutipan:**
-> *"Proyek ini dikembangkan oleh Yoga Pratama. Repositori asli dapat ditemukan di: https://github.com/Yongsjasjos/ecommerce"*
+> *"Proyek ini dikembangkan oleh Yoga Pratama. Repositori asli dapat ditemukan di: https://github.com/Yongsjasjos/ECommerce_sederhana?tab=readme-ov-file#readme"*
 
 ---
 
