@@ -23,13 +23,17 @@ Sistem aplikasi ini merupakan proyek e-commerce berbasis **PHP dan MySQL** yang 
 - CRUD Produk (+ Fitur Pencarian).
 - Melihat dan memproses pesanan masuk.
 - Mencetak laporan berdasarkan rentang waktu *(fitur aktif)*.
+- Melihat grafik penjualan periode 7 hari terakhir
 
 ### 🙋 User
 - Melihat katalog dan detail produk.
 - Menambahkan produk ke keranjang dan melakukan checkout.
+- checkout banyak barang dengan menggunakan filtur keranjang
 - Melihat riwayat pembelian.
 - Mencetak nota transaksi dalam format PDF.
 
+
+semua data sudah dikelola dengan baik, sehingga data yang ditampilkan hanyalah data milik akun terkait saja
 ---
 
 ## 📁 Struktur Proyek
@@ -83,13 +87,17 @@ http://localhost/ecommerce/
 
 ### Akun Login
 
-**Admin**
-- Email: `admin@gmail.com`
-- Password: `admin`
+**Admin 1**
+- Email: admin@gmail.com
+- Password: admin
+
+**Admin 2**
+- Email: admin@gmail.com
+- Password : 123
 
 **User**
-- Email: `user@gmail.com`
-- Password: `123`
+- Email: user@gmail.com
+- Password: 123
 
 ---
 
