@@ -18,7 +18,7 @@ Sistem aplikasi ini merupakan proyek e-commerce berbasis **PHP dan MySQL** yang 
 ---
 
 ## 🎯 Fitur Aplikasi
-
+ - semua data sudah dikelola dengan baik, sehingga data yang ditampilkan hanyalah data milik akun terkait saja
 ### 👑 Admin
 - CRUD Produk (+ Fitur Pencarian).
 - Melihat dan memproses pesanan masuk.
@@ -32,8 +32,6 @@ Sistem aplikasi ini merupakan proyek e-commerce berbasis **PHP dan MySQL** yang 
 - Melihat riwayat pembelian.
 - Mencetak nota transaksi dalam format PDF.
 
-
-semua data sudah dikelola dengan baik, sehingga data yang ditampilkan hanyalah data milik akun terkait saja
 ---
 
 ## 📁 Struktur Proyek
